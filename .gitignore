@@ -13,4 +13,3 @@ dist/
 *_mysql.sql
 *_sqlite.sql
 *_tsql.sql
-sqlite_dbs/
